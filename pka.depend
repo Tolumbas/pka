@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1625737222 source:c:\users\feiro\desktop\work\cpp\pka\main.cpp
+	<iostream>
+	<string>
+	<utility>
+	"myvector.h"
+	"automata.h"
+	"parser.h"
+
+1625737095 source:c:\users\feiro\desktop\work\cpp\pka\automata.cpp
+	"automata.h"
+	<iostream>
+	<math.h>
+
+1625736338 c:\users\feiro\desktop\work\cpp\pka\myvector.h
+	<utility>
+	<iostream>
+
+1625154475 c:\users\feiro\desktop\work\cpp\pka\automata.cpp
+	"myvector.h"
+
+1625154607 c:\users\feiro\desktop\work\cpp\pka\parser.cpp
+	"myvector.h"
+	"automata.cpp"
+	<string>
+
+1625731399 source:c:\users\feiro\desktop\work\cpp\pka\parser.cpp
+	"myvector.h"
+	"automata.h"
+	"parser.h"
+	<string>
+	<iostream>
+
+1625735111 c:\users\feiro\desktop\work\cpp\pka\automata.h
+	"myvector.h"
+	<string>
+
+1625230885 c:\users\feiro\desktop\work\cpp\pka\parser.h
+	<string>
+
